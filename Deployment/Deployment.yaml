@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sre
-        image: purna1234/mvn:v1
+        image: purna1234/mvn:v2
         ports:
         - containerPort: 8080
